@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Air Jordan 9",
+        "price": 232,
+        "image": "./Images/Air Jordan 9 - $232 (1).png"
+    },
+    {
+        "id": 2,
+        "name": "Jordan Max Aura 5",
+        "price": 143,
+        "image": "./Images/Jordan Max Aura 5 - $143 (1).png"
+    },
+    {
+        "id": 3,
+        "name": "Jordan Stay Loyal 3 ",
+        "price": 124,
+        "image": "./Images/Jordan Stay Loyal 3 - $124 (1).png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Nike Air Force 1 '07",
+        "price": 116,
+        "image": "./Images/Nike Air Force 1 _07 - $116 (1).png"
+    },
+    {
+        "id": 5,
+        "name": "Nike Air Max 90",
+        "price": 130,
+        "image": "./Images/Nike Air Max 90 - $130 (1).png"
+    },
+    {
+        "id": 6,
+        "name": "Nike Air Max 270",
+        "price": 168,
+        "image": "./Images/Nike Air Max 270 - $168 (1).png"
+    },
+    {
+        "id": 7,
+        "name": "Nike Dunk Low Retro",
+        "price": 99,
+        "image": "./Images/Nike Dunk Low Retro-$99 (1).png"
+    },
+    {
+        "id": 8,
+        "name": "Nike Max Plus Drift",
+        "price": 196,
+        "image": "./Images/Nike Max Plus Drift - $196 (1).png"
+    },
+    {
+        "id": 9,
+        "name": "Nike Waffle Nav",
+        "price": 85,
+        "image": "./Images/Nike Waffle Nav - $85 (1).png"
+    }
+]
